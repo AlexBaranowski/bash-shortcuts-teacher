@@ -14,7 +14,7 @@ Ckurrently supported shortcuts are:
 ## Automatic installation
 These bindings can be automatically installed with these simple scripts:
 ```
-curl TODO | tee -a ~/.bashrc
+curl https://github.com/AlexBaranowski/bash-shortcuts-teacher/raw/master/bash-shortucts-teacher.sh | tee -a ~/.bashrc
 ```
 ## License
 See LICENSE file.
